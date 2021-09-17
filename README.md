@@ -1,0 +1,1 @@
+Rust-fronend-example-yew
